@@ -1,0 +1,167 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.quote-sec
+{
+	margin-top:90px;
+}
+.quote-container
+{
+	width:90%;
+	margin:0 auto;
+}
+
+
+.quote-row
+{
+	display:flex;
+	gap:10%;
+}
+
+.quote-col
+{
+	width:50%;
+}
+
+.quote-col1
+{
+	width:50%;
+}
+
+.quote-col h5
+{
+	font-size:23px;
+	color:blue;
+	padding-bottom:20px;
+}
+
+.quote-col h1
+{
+	font-size:35px;
+	font-weight:900px;
+	padding-bottom:20px;
+}
+
+
+.quote-col p{
+	font-size:20px;
+	font-weight:400;
+	color:#969b9e;
+	padding-bottom:30px;
+}
+
+
+
+.quote-col1 h3{
+	font-size:25px;
+	padding-bottom:30px;
+}
+
+.detil
+{
+	display:flex;
+	gap:10px;
+	padding-bottom:10px;
+}
+
+.detil input
+{
+	width:100%;
+	padding:20px;
+}
+.name
+{
+	width:50%;
+	
+}
+
+.mail
+{
+	width:50%;
+}
+
+
+
+textarea
+{
+	width:100%;
+	padding:30px;
+}
+
+
+.sumbit{
+	width:100%;
+	text-align:center;
+	background-color:blue;
+	margin-top:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+
+.sumbit a{
+	text-decoration:none;
+	color:#fff;
+}
+
+
+.drop-down
+{
+	display:flex;
+	margin-bottom:30px;
+	gap:20px;
+}
+
+
+.number 
+{
+	width:50%;
+	
+}
+
+.number input{
+	width:100%;
+	padding:20px;
+	
+}
+
+.flower
+{
+	width:50%;
+}
+
+.phone
+{
+	display:flex;
+	width:30%;
+	align-items:center;
+	border:1px solid blue;
+}
+
+.icon{
+	padding:10px;
+	background-color:blue;
+}
+
+.number h3
+{
+	font-size:20px;
+	color:blue;
+	
+}
+
+.arrow-up{
+	color:blue;
+	font-size:20px;
+	text-align:center;
+	padding-top:50px;
+	padding-left:1100px;
+
+}
+
+.arrow-up i{
+	padding:10px;
+}
